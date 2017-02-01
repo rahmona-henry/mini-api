@@ -1,0 +1,20 @@
+{
+  "name": "mini-api",
+  "version": "1.0.0",
+  "description": "Interact with the Google Map API to test drive the Swagger UI",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahmona-henry/mini-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rahmona-henry/mini-api/issues"
+  },
+  "homepage": "https://github.com/rahmona-henry/mini-api#readme"
+}
